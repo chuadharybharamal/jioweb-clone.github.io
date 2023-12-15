@@ -1,0 +1,451 @@
+.nav{
+    background-color: #0f3cc9;
+    color:white;
+    font-weight: bolder;
+
+}
+
+ul a{
+    color: white;
+    margin-right: 3vw;
+}
+ul a:hover{
+    color:black;
+}
+ul .new{
+    margin-top:-22px;
+}
+ul span {font-size:12px;
+    margin-top:-100px;
+ background-color: red;
+ padding: 0px 8px;
+ border-radius: 30px;
+}
+
+.nav input::placeholder{
+    font-weight: bolder;
+   
+    color: white;
+}
+
+.nav input{
+    border: 1px solid white;
+    margin-right: 10px;  
+    border-radius: 20px;
+    background-color: #061951;
+   
+}
+.user{
+    background-color: #ced7f3;
+    width:40px;
+    height:40px;
+    color:blue;
+    border-radius:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousel-inner .carousel-caption{
+    left:5vw;
+
+    font-weight: bolder;
+    text-align: left;
+}
+
+.icon {
+
+    width: 100%;
+    display: flex;
+    height: 150px;
+
+}
+
+.ab {
+    margin: 10px 30px;
+    height: 64px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 64px;
+    background-color: rgb(215, 240, 240);
+    color: blue;
+    border-radius: 100px;
+
+
+} 
+.ia {
+    width: 110px;
+    border-radius: 10px;
+
+    height: 120px;
+    text-align: center;
+    align-items: center;
+
+
+} 
+ 
+.ia:hover {
+    transition: all 1s;
+    background-color: rgb(215, 240, 240);
+
+} 
+
+.ia p {
+    margin-top: 8px;
+}
+.carousel-caption button{
+    border-radius: 30px;    
+    }
+
+.abc {
+    color: #061951;
+    height: 40px;
+    width: 40px;
+
+}
+.look{
+    font-weight: bolder;
+    font-size:4vw;
+    text-align: center;
+
+}
+.look2{
+    font-size:1.3vw;
+    text-align: center;
+}
+.aside button {
+    padding: 15px;
+    border-radius: 50px;
+    border: none;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #62003f;
+    font-weight: bolder;
+    background-color: #ff99db;
+}
+
+
+.aside {
+  
+    background-color: #D9008D;
+    color: white;
+
+}
+
+
+.aside p {
+    font-family: JioType, helvetica, arial, sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.CARD1 {
+    margin-left: 20PX;
+    color: white;
+    padding: 5px;
+    width:400PX;
+    border-radius: 20PX;
+    height:240PX;
+    border: 1PX solid;
+    display: flex;
+    display: inline-block;
+}
+
+.b1 {
+    padding: 5px;
+    width:50%;
+}
+.b1 h2{
+    font-size:2vw;
+}
+
+.BLUE {
+    display: flex;
+    background-image: url(img/JioNews-19-05.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    padding-left: 10px;
+    background-color: rgb(4, 0, 255);
+}
+
+.cardep {
+    align-items: center;
+    display: flex;
+    font-weight: bolder;
+}
+
+.BLUE h2 {
+    margin-top: 5px;
+    font-size:vw;
+}
+
+.CARD1 button {
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    font-size: 15px;
+    margin-top: 10px;
+    font-weight: bolder;
+    background-color: #BECEFB;
+}
+
+.purpl {
+    background-image: url(img/JioMart-19-05.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #0078AD;
+}
+
+.GREEN {
+    background-color: green;
+    background-image: url(img/JioGames-19-05.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.INFO {
+    background-image: url(img/JioCloud-19-05.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #1ECCB0;
+}
+.orang {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(img/JioMeet-19-05.webp);
+    background-color: #FA7D19;
+}
+.jiodive {
+    width: 100%;
+    padding: 50px;
+}
+
+.jiodive  {
+    width: 100%;
+    height: 444px;
+    background-color: #6D17CE;
+    display: flex;
+    border: none;
+    border-radius: 30px;
+    background-image: url(img/dive-side-desk-v5.webp);
+    background-position-x: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.jio{
+  border-radius:10px;
+}
+.card3 {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 50px;
+}
+
+.c1 {
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+
+}
+
+.c1 img {
+    width: 100%;
+    height:auto ;
+    margin: 0%;
+
+    border-radius: 30px 30px 0px 0px;
+}
+
+
+.c1 .c2 {
+    border-radius: 0px 0px 30px 30px;
+    background-color: #0F3CC9;
+    width: auto;
+    border: none;
+    margin-top: -5px;
+    height: auto;
+    padding: 30px 20px;
+    color: white;
+    font-size: 1vw;
+
+}
+
+.c2 button {
+    padding: 8px 15px;
+    border-radius: 30px;
+    border: none;
+    font-weight: bolder;
+    background-color: #BECEFB;
+    color: #061951;
+    margin-top: 10px;
+}
+.jiobharaT{
+    
+    border-radius: 20PX;
+    
+    background-color: white;
+    box-shadow: 1PX 1PX 15PX rgb(213, 213, 240);
+}
+.carrir{
+    background-image: url(img/carrier-desktop.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:500px;
+    border-radius:30px;
+    border:none;
+    padding: 30px;
+    color: white;
+}
+.carrir h1{
+    margin-top:5vh;
+    width: 40%;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.carrir button{
+    border-radius:30px;
+    padding:0.8vw;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    margin-top: 5vh;
+    
+    background-color: #0040ff;
+}
+.fcard{
+    width:auto;
+    border-radius: 30px;
+    height: auto;
+    background-color: white;
+    box-shadow: 1px 1px 15px rgb(195, 195, 240);
+}
+.fcardtext{
+    padding: 8px;
+}
+.fcardtext h5{
+    font-weight: bolder;
+    margin-top: 2vh;
+
+}
+.fcardtext button{
+    color: #0040ff;
+    font-weight: bolder;
+}
+.fcardtext button:hover{
+    background-color: #0078AD;
+    border-radius: 30px;
+}
+.fcard img {
+    width: 100%;
+    border-radius: 30px 30px 0px 0px;
+}
+.growbus{
+    background-image: url(img/jio-com-business-banner-desktop-17Oct2023.webp);
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 30px;
+    padding:50px;
+    color: white;
+}
+.growbus h1 {
+    width:50%;
+    font-size:5vw;
+    font-weight: bolder;
+}
+.growbus h2{
+    width: 50%;
+    font-size:2vw;
+} 
+.growbus button{
+    border-radius: 30px;
+    background-color: #0040ff;
+    color: white;
+}
+.need{
+    background-color: #0040ff;
+    height: auto;
+} 
+.need h1{
+    color: white;
+    font-weight: bolder;
+    font-size: 5vw;
+}
+.need h2{
+    color: white;
+}
+.need button{
+    border: 1px solid gray;
+    color: white;
+    border-radius:30px;
+    width:150px;
+}
+.footer li{margin: 10px;
+    list-style: none;
+    font-size: 1vw;
+    
+}
+.footer span{
+    width: 35px;
+    height: 35px;
+    background-color:#0A2885;
+    border-radius: 50px;
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.Copyright{
+    align-items: center;
+    text-align: center;
+
+}
+   
+
+@media (max-width:991px){
+    .need button{
+        width: 100%;
+    }
+
+}
+
+@media (max-width:425px){
+ 
+   
+}
+
+@media (max-width:390px){
+    .nav{
+        display: flex;
+        align-items: center;
+    }
+    .logo{
+        margin-left:-25px;
+    }
+    .abc{
+        display:none;
+
+    }
+    .nav span{
+        margin-right:5px;
+    }
+    .lgicon{
+        display: none;
+    }
+    .serachicon{
+        margin-left:40px;
+    }
+    input{
+        display: none;
+    }
+    .search{
+       display: none;
+    }
+    
+    
+}
